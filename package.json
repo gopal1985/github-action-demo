@@ -1,7 +1,7 @@
 {
   "name": "github-action-demo",
   "version": "0.1.0",
-  "homapage": "https://gopal1985.github.io",
+  "homapage": "https://gopal1985.github.io/github-action-demo/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
