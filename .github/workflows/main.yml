@@ -1,1 +1,31 @@
+name: Workflow Demo
 
+on:
+    push:
+    workflow_dispatch:
+
+permissions:
+    contents: write
+
+jobs:
+    build-nd-deploy:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: checkout codebase
+              uses: actions/checkout@v3
+            
+            - name: Setup Node.js
+              uses: actions/setup-node@v3
+            
+            - name: Install dependencies
+              run: npm install
+            
+            - name: Build Project
+              run: npm run build
+            
+            - name: Deploy to GH pages
+              uses: JamesIves/github-pages-deploy-action@v4
+              with:
+                branch: gh-pages
+                folder: build
