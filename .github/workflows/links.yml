@@ -1,0 +1,19 @@
+name: Video Links
+
+on:
+    schedule:
+        - cron: "0 5 * * *"
+    workflow_dispatch:
+
+permissions:
+    contents: write
+
+jobs:
+    update-readme-links:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with:
+                comment_tag_name: "VIDEO-LINKS"
+                feed_list: https://www.youtube.com/feeds/videos.xml?channel_id=UC8NDpwTbsFSeP7dkbl4hKeQ
