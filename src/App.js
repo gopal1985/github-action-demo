@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome inoperable Workflow.
+          Welcome a working Workflow.
         </p>
         <a
           className="App-link"
