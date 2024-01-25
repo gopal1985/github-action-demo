@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- VIDEO-LINKS:START -->
-- [Terraform Dynamic Block Explained with Demo in Hindi | What are Dynamic Blocks in Terraform?](https://www.youtube.com/watch?v=4wGTVBzQYDs)
-- [Data Sources in Terraform | Use terraform data source to fetch aws ami ids  | Terraform Tutorials](https://www.youtube.com/watch?v=_NU3jIwvPGs)
-- [Terraform Local Values Explained | Locals in Terraform | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=ldK_98oPjMc)
-- [WordPress Deployment on AWS EC2 and RDS | Step-by-Step Guide for Two-Tier Environment | DevOps Pro](https://www.youtube.com/watch?v=R04upb-Uac4)
-- [GitHub Actions Crash Course for beginners with Projects | GitHub Action Tutorial in Hindi](https://www.youtube.com/watch?v=bSBaAspgmhU)
+- [Just your average day 😆😭 #shorts #toddlerlife](https://www.youtube.com/watch?v=5O1--TDweDc)
+- [The song that goes through our millennial heads whenever we put these costumes on... IYKYK 🦈 #shorts](https://www.youtube.com/watch?v=ZCp2DpRiux8)
+- [Lights, camera, chaos! 🎥🤪 #behindthescenes #behindthescenesfun](https://www.youtube.com/watch?v=4Q5YI7U_ULg)
+- [Goofing around in the dressing rooms during our break from filming #shorts #funonset](https://www.youtube.com/watch?v=B-YrxDVItK8)
+- [On Set with Bounce Patrol: The Making of &#39;BINGO&#39; 🎥😄🐶](https://www.youtube.com/watch?v=GPXLfGkVhzc)
 <!-- VIDEO-LINKS:END -->
 ## Available Scripts
 
