@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- VIDEO-LINKS:START -->
+- [Lyric fail 😂 Anyone else sing the wrong words sometimes? 🍋🍐 #shorts #wronglyrics](https://www.youtube.com/watch?v=QaLRcExXUc8)
+- [Ridiculous costumes? Challenge accepted! &lpar;&quot;Fruit So Yummy&quot; Behind the Scenes&rpar;](https://www.youtube.com/watch?v=FX9dGKKG40E)
 - [Bloopers with Alyssa - this took quite a few takes 🧁😂 #shorts #bloopers](https://www.youtube.com/watch?v=JSE9O_k329U)
 - [Blooper! Some days are more chaotic than others at the BP studio 😂🎥 #shorts #bloopers](https://www.youtube.com/watch?v=vxVahcp66Gg)
 - [Silliness in the studio! 🫣🥴🧚‍♀️💑🤹‍♂️⁠ Which emoji should we try next?](https://www.youtube.com/watch?v=0zLOUSJn8lI)
-- [What working with your best friends looks like 💖 #bouncepatrol #behindthescenes](https://www.youtube.com/watch?v=nwEiCLrxHaw)
-- [Funny &quot;Let&#39;s Drive&quot; Gag Reel! Behind-the-Scenes Madness &amp; Outtakes that cracked us up! 😂🚗](https://www.youtube.com/watch?v=o_RUgSX1BMo)
 <!-- VIDEO-LINKS:END -->
 ## Available Scripts
 
