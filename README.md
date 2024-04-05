@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- VIDEO-LINKS:START -->
+- [Bloopers! Jackson has a little trouble pointing to his nose 😂 #shorts](https://www.youtube.com/watch?v=GIjFrzhEX8o)
 - [Bounce Patrol Bloopers 😂 Behind the scenes filming &quot;Kids Life&quot;](https://www.youtube.com/watch?v=nLIx-cv7TlA)
 - [Peeling good with these fruit costumes and puns that are grape for the soul! 🍇](https://www.youtube.com/watch?v=TOUhyIcHbiI)
 - [Who&#39;s been Eating the Props? 🤔 &lpar;Filming &quot;Hot Cross Buns&quot;&rpar;](https://www.youtube.com/watch?v=XtU-X7stBaA)
 - [How this toddler playtime would actually go… #shorts #behindthescenesfun](https://www.youtube.com/watch?v=RCIU41waoMA)
-- [Hanging on until nap time 🤪 #shorts #parentsbelike](https://www.youtube.com/watch?v=28ye4nFpFvI)
 <!-- VIDEO-LINKS:END -->
 ## Available Scripts
 
