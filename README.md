@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- VIDEO-LINKS:START -->
+- [Interviewing the star of our latest video 🐷 You might recognise him is as the Ham in Hamlet](https://www.youtube.com/watch?v=WnDpczhYIaU)
 - [Pretty, pretty crazy and pretty darn awesome! ♥ #girlpower](https://www.youtube.com/watch?v=GSUhRPLhMFY)
 - [Rockstars for a Day – Bounce Patrol’s Epic Glam Photoshoot](https://www.youtube.com/watch?v=jneBfZR4iRY)
 - [Always listen to Mum 💖 #behindthescenes](https://www.youtube.com/watch?v=rVm-lPlYPE8)
 - [Bloopers! Jackson has a little trouble pointing to his nose 😂 #shorts](https://www.youtube.com/watch?v=GIjFrzhEX8o)
-- [Bounce Patrol Bloopers 😂 Behind the scenes filming &quot;Kids Life&quot;](https://www.youtube.com/watch?v=nLIx-cv7TlA)
 <!-- VIDEO-LINKS:END -->
 ## Available Scripts
 
