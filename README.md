@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- VIDEO-LINKS:START -->
+- [Help us test out the new Bounce Patrol iOS app before our official launch ♥](https://www.youtube.com/watch?v=7p7D2y95Af0)
 - [How To Fold a Pop-Up Background &lpar;*Terrible Advice*&rpar;](https://www.youtube.com/watch?v=FiNRe0GKVrg)
 - [How Well Do You Know Your Castmates? | Quizzing the cast of Bounce Patrol](https://www.youtube.com/watch?v=lrNDiuBrElU)
 - [Rachel attempts to be grumpy... Behind the scenes filming with Bounce Patrol](https://www.youtube.com/watch?v=AyNk2G3F1Qo)
 - [Casting the role of the cow in our latest video 🐄](https://www.youtube.com/watch?v=ZV1PINNdtqA)
-- [Interviewing the star of our latest video 🐷 You might recognise him is as the Ham in Hamlet](https://www.youtube.com/watch?v=WnDpczhYIaU)
 <!-- VIDEO-LINKS:END -->
 ## Available Scripts
 
