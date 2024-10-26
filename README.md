@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- VIDEO-LINKS:START -->
+- [Laughs on Set - Outtakes Filming &quot;Magic Potion&quot;](https://www.youtube.com/watch?v=fMhDg7SB_sw)
 - [Blindfold Prop Challenge - with the Cast of Bounce Patrol](https://www.youtube.com/watch?v=J-iQdnXxkUE)
 - [Massage chain 😁 #behindthescenes](https://www.youtube.com/watch?v=HR778oTj574)
 - [How To Fold a Pop-Up Background &lpar;*Terrible Advice*&rpar;](https://www.youtube.com/watch?v=FiNRe0GKVrg)
 - [Can Bounce Patrol Guess Each Other&#39;s Secrets?](https://www.youtube.com/watch?v=lrNDiuBrElU)
-- [Rachel attempts to be grumpy... Behind the scenes filming with Bounce Patrol](https://www.youtube.com/watch?v=AyNk2G3F1Qo)
 <!-- VIDEO-LINKS:END -->
 ## Available Scripts
 
