@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- VIDEO-LINKS:START -->
+- [Thanks to the families who danced, sang, and laughed with us in 2024!](https://www.youtube.com/watch?v=JONxwq-9QaY)
 - [Bounce Patrol is taking over Bangers and Mashups on @abckids!](https://www.youtube.com/watch?v=-xn-JDLW9CE)
 - [Old MacDonald&#39;s animals in between takes 😅🎬](https://www.youtube.com/watch?v=F3npiDJ2J74)
 - [Will had 2 lines, but he couldn&#39;t say them without cracking up #bloopers 😂🏴‍☠️](https://www.youtube.com/watch?v=5FZbizEjIKc)
 - [It&#39;s a zoo around here 🦓🎬](https://www.youtube.com/watch?v=3vLovVaSnjc)
-- [Baby Shark Bloopers - Bounce Patrol Behind the Scenes](https://www.youtube.com/watch?v=8weifXOv8_I)
 <!-- VIDEO-LINKS:END -->
 ## Available Scripts
 
