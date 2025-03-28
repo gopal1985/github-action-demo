@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- VIDEO-LINKS:START -->
+- [We needed a trampoline for extra bounce in this song 🐰](https://www.youtube.com/watch?v=wYf2RAHzMz8)
 - [We have news....  😜](https://www.youtube.com/watch?v=Wmu1rSkETvA)
 - [Why did we choose these songs? ❤ Here&#39;s why!](https://www.youtube.com/watch?v=Xuv_w3gQgsA)
 - [Thanks to the families who danced, sang, and laughed with us in 2024!](https://www.youtube.com/watch?v=JONxwq-9QaY)
 - [Bounce Patrol is taking over Bangers and Mashups on @abckids!](https://www.youtube.com/watch?v=-xn-JDLW9CE)
-- [Old MacDonald&#39;s animals in between takes 😅🎬](https://www.youtube.com/watch?v=F3npiDJ2J74)
 <!-- VIDEO-LINKS:END -->
 ## Available Scripts
 
