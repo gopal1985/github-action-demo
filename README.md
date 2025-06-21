@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <!-- VIDEO-LINKS:START -->
 - [We needed a trampoline for extra bounce in this song 🐰](https://www.youtube.com/shorts/wYf2RAHzMz8)
-- [We have news....  😜](https://www.youtube.com/watch?v=Wmu1rSkETvA)
+- [We have news....  😜](https://www.youtube.com/shorts/Wmu1rSkETvA)
 - [Why did we choose these songs? ❤ Here&#39;s why!](https://www.youtube.com/shorts/Xuv_w3gQgsA)
 - [Thanks to the families who danced, sang, and laughed with us in 2024!](https://www.youtube.com/shorts/JONxwq-9QaY)
 - [Bounce Patrol is taking over Bangers and Mashups on @abckids!](https://www.youtube.com/shorts/-xn-JDLW9CE)
