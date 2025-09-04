@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <!-- VIDEO-LINKS:START -->
-- [Bounce Patrol Live on Stage &lpar;Melbourne, Australia&rpar;](https://www.youtube.com/shorts/oSte4_OMZkI)
+- [Get Your Tickets to Bounce Patrol Live on Stage &lpar;Melbourne, Australia&rpar;](https://www.youtube.com/shorts/oSte4_OMZkI)
 - [Live Show Announcement! 🎉 Melbourne - see Bounce Patrol live on stage!](https://www.youtube.com/shorts/qKNw4t41RIM)
 - [We needed a trampoline for extra bounce in this song 🐰](https://www.youtube.com/shorts/wYf2RAHzMz8)
 - [We have news....  😜](https://www.youtube.com/shorts/Wmu1rSkETvA)
